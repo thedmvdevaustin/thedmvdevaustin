@@ -24,13 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedmvdevaustin&show_icons=true&locale=en" alt="thedmvdevaustin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedmvdevaustin&" alt="thedmvdevaustin" /></p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thedmvdevaustin/thedmvdevaustin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thedmvdevaustin/thedmvdevaustin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thedmvdevaustin/thedmvdevaustin/output/pacman-contribution-graph.svg">
-</picture>
-
-###
